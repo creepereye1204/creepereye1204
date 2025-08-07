@@ -1,3 +1,18 @@
+## 👋 About Me
+- 백엔드 개발자를 꿈꾸는 최지웅입니다
+- Python/Drf 기반의 서버 개발에 관심이 있습니다
+- 리눅스 기반의 서버 최적화를 목표로 하고 있습니다 
 
+## 🛠 Tech Stack
+- Language: Python, TypeScript
+- Framework: Django Rest Framework, Fast API, React
+- Database: MySQL
+- Tools: Docker
+
+## 📊 GitHub Stats
 ![creepereye1204's GitHub stats](https://github-readme-stats.vercel.app/api?username=creepereye1204&show_icons=true&theme=radical)
-![creepereye1204's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=creepereye1204&theme=bright&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800)<br/>
+
+## 📫 How to reach me
+- Email: iostream1204@gmail.com
+- Blog: 작성중
+
