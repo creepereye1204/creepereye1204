@@ -4,9 +4,9 @@
 - 리눅스 기반 환경에서 서버 성능 최적화(네트워크/파일 I/O/런타임/컨테이너 튜닝)에 깊은 관심이 있습니다.
 
 ## 🛠 Tech Stack
-- Language: Python, TypeScript
-- Framework: Django Rest Framework, Spring Boot, Fast API, React
-- Database: MySQL, PostgreSQL
+- Language: Python, Java, Javascript
+- Framework: Spring, Fast API, React
+- Database: MongoDB, PostgreSQL, Elasticsearch
 - Monitoring: Granfana, Promethuse
 - Tools: Docker/DockerSwarm
 
