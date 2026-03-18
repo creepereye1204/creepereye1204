@@ -6,7 +6,7 @@
 ## 🛠 Tech Stack
 - Language: Python, Java, Javascript
 - Framework: Spring, Fast API, React
-- Database: MongoDB, PostgreSQL, Elasticsearch
+- Database: MongoDB, PostgreSQL, MySQL
 - Monitoring: Granfana, Promethuse
 - Tools: Docker/DockerSwarm
 
