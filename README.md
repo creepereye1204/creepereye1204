@@ -13,7 +13,11 @@
 ## 📊 GitHub Stats
 ![creepereye1204's GitHub stats](https://github-readme-stats.vercel.app/api?username=creepereye1204&show_icons=true&theme=radical)
 
+## 🥇 Baekjoon Tier
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=creepereye)](https://solved.ac/creepereye/)
+
+
 ## 📫 How to reach me
 - Email: iostream1204@gmail.com
-- Blog: 작성중
+
 
